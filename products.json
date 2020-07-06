@@ -1,0 +1,36 @@
+{
+  "companyName": "I Scream Inc.",
+  "locals": "Barrie, Ontario",
+  "productsx": [
+    {
+      "name": "BBQ Flavoured Ice-cream",
+      "price": 2.05,
+      "description": "BBQ can be in Icecream too",
+      "image": "bbq.jpg"
+    },
+    {
+      "name": "Deep Fried Ice-cream",
+      "price": 4.99,
+      "description": "Super Crispy and Juicy.",
+      "image": "iceCream.jpg"
+    },
+    {
+      "name": "Spicy Water",
+      "price": 4.20,
+      "description": "Extra 2x Spicy Water will surely make you sweat",
+      "image": "water.jpg"
+    },
+	{
+      "name": "Crunchy Water",
+      "price": 3.98,
+      "description": "The only crunchy water in the world",
+      "image": "crunchy.jpg"
+    },
+	{
+      "name": "Hamburger with burger bun Patties",
+      "price": 8.99,
+      "description": "Best Burger with burger bun Patties",
+      "image": "burger.jpg"
+    }
+  ]
+}
