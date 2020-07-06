@@ -1,7 +1,7 @@
 {
-  "companyName": "I Scream Inc.",
-  "locals": "Barrie, Ontario",
-  "productsx": [
+  "restaurant": "Weirdest Restaurent",
+  "location": "Barrie, Ontario",
+  "products": [
     {
       "name": "BBQ Flavoured Ice-cream",
       "price": 2.05,
